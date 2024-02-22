@@ -1,0 +1,32 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+img {width: 300px}
+
+
+body {font-family: helvetica;
+					color:  #133625; }
+
+.header { background-color: lightblue; }
+
+h1 {color: #133625;
+				/* forrest green */
+				font-family: "Protest Riot", sans-serif;
+  				font-weight: 400;
+  				font-style: normal;
+  				text-align: center;
+			}
+
+			ul {list-style-image: url('duckemojiforcss.png');
+			}
+
+			h1, h2 {text-shadow: 4px 4px white;
+			}
+
+			h2 {color: #33cc33;
+				/* green */
+				font-family: "Protest Riot", sans-serif;
+				font-weight: 300;
+				font-style: normal;
+			}
+
+			body {background-color: #FFF3E0;
+			}
